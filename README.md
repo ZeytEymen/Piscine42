@@ -20,7 +20,7 @@
 | C13  | Not Rated   |
 | Exam00  | **%40**  |
 | Exam01  | **%60**  |
-| Exam02  |** %80**  |
+| Exam02  |**%80**  |
 | Final Exam | **?**  |
 | Rush00  | [%18](https://github.com/ZeytEymen/Piscine42/tree/main/Rush00 "%18") :(  |
 | Rush01  | Not Rated   |
