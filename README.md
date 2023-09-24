@@ -21,7 +21,7 @@
 | Exam00  | **%40**  |
 | Exam01  | **%60**  |
 | Exam02  |**%80**  |
-| Final Exam | **?**  |
+| Final Exam | **48**  |
 | Rush00  | [%18](https://github.com/ZeytEymen/Piscine42/tree/main/Rush00 "%18") :(  |
 | Rush01  | Not Rated   |
 | Rush02  | Not Rated   |
